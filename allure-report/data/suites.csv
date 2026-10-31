@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1543","Неуспешная авторизация","selenium_tests.tests","2026-10-31","passed","2026-10-31","TestSauceDemo","test_saucedemo","",""
+"","3330","Успешная покупка товара","selenium_tests.tests","2026-10-31","passed","2026-10-31","TestSauceDemo","test_saucedemo","",""
+"","1686","Очистка корзины","selenium_tests.tests","2026-10-31","passed","2026-10-31","TestSauceDemo","test_saucedemo","",""
